@@ -1,0 +1,8 @@
+MIDlet-1: midlet,,midlet.midlet
+MIDlet-Jar-Size: 6196
+MIDlet-Jar-URL: midlets.jar
+MIDlet-Name: midlets
+MIDlet-Vendor: calink
+MIDlet-Version: 1.0.15
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
